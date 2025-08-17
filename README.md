@@ -36,6 +36,7 @@
 
 
 下载后使用邮箱注册登录，点击下方的交易面板，点击第一个paper trading
+<img width="3828" height="2160" alt="image" src="https://github.com/user-attachments/assets/19c6020b-8ce2-4645-85a4-bd857a96ac20" />
 
 
 # 三、自营交易商选择
